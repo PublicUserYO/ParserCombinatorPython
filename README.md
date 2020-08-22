@@ -69,3 +69,9 @@ print(result2)
 # "abcabc"が抽出される
 print(result3)
 ```
+## サンプルプログラム
+チェックアウトして以下のコマンドで動かせる。  
+`python src\sample_markdown.py`  
+`python src\sample_converter.py`  
+
+サンプルとは関係ないがgit bash for windowsでpythonを実行すると設定次第でエラーが出る時もあるので注意
